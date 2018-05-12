@@ -1,0 +1,24 @@
+_repo: An-Account-of-Our-Arresting-Experiences_31115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31115-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evans, Conway
+    gutenberg_agent_id: '35011'
+    url: http://www.gutenberg.org/2009/agents/35011
+description: ''
+gutenberg_issued: '2010-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, American'
+- !lcc 'D501'
+title: An Account of Our Arresting Experiences
+url: http://www.gutenberg.org/ebooks/31115
